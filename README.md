@@ -14,7 +14,7 @@ This project is a web crawler and search engine that crawls a website, indexes i
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/johndoe/web-crawler.git
 
 ## Requirements
 - Python 3.x
@@ -22,3 +22,10 @@ This project is a web crawler and search engine that crawls a website, indexes i
 - Whoosh
 - Requests
 - BeautifulSoup4
+
+## Code Structure
+- `crawler.py`: Contains the logic for crawling and indexing.
+- `app.py`: Implements the Flask application, indexing, and search functionality.
+- `index.html`: Frontend template for the home page (search form).
+- `results.html`: Frontend template for displaying search results.
+- `search.html`: Template for handling search inputs and displaying output.
