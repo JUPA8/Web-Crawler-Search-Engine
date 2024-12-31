@@ -14,7 +14,7 @@ This project is a web crawler and search engine that crawls a website, indexes i
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/johndoe/web-crawler.git
+   git clone https://github.com/JUPA8/Web-Crawler-Search-Engine.git
 
 ## Requirements
 - Python 3.x
